@@ -1,0 +1,384 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A brief rule of life directing how to manage it according to the principles both of piety &amp; prudence : to which is added, a form of prayer for a family, both for morning and evening : which may likewise be used in the closet by those that want such helps.</title>
+            <author>Morton, John, fl. 1672.</author>
+         </titleStmt>
+         <extent>Approx. 45KB of XML-encoded text transcribed from 25 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B43471</idno><idno type="EEBO-CITATION">767839735</idno>
+  <idno type="VID">212263</idno>
+  <idno type="EEBO-PROQUEST">2240870152</idno>
+  
+            <idno type="OCLC"> 767839735</idno>
+            <idno type="OCLC">ocn 767839735</idno>
+            <idno type="STC">Wing M2826B</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B43471)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 212263)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 3010:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A brief rule of life directing how to manage it according to the principles both of piety &amp; prudence : to which is added, a form of prayer for a family, both for morning and evening : which may likewise be used in the closet by those that want such helps.</title>
+                  <author>Morton, John, fl. 1672.</author>
+               </titleStmt>
+               <extent>[8], 38 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for J.C. [i.e. J. Cottrell] for Hen. Brome, at the Gun in Ivy-Lane,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1662.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Dedication signed: John Morton.</note>
+                  <note>Printer's name suggested by Wing (2nd ed.).</note>
+                  <note>Imperfect: cropped with slight loss of text.</note>
+                  <note>Reproduction of original in: Beinecke Rare Book and Manuscript Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Christian life --  England --  Early works to 1800.</term>
+               <term type="topical_term">Prayer --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:212263:1"/>
+            <pb facs="tcp:212263:2"/>
+            <p>A BRIEF RULE OF LIFE: Directing how to manage it ac<g ref="char:EOLhyphen"/>cording to Principles both of PIETY &amp; PRUDENCE. To which is added, A Form of PRAYER For a FAMILY, Both for <hi>Morning</hi> and <hi>Evening:</hi> Which may likewise be used in the <hi>Closet</hi> by those that want such helps.</p>
+            <q>
+               <hi>Ora &amp; Labora.</hi>
+            </q>
+            <p>
+               <hi>LONDON:</hi> Printed by <hi>J. C.</hi> for <hi>Hen. Brome,</hi> at the Gun in <hi>Ivy-Lane.</hi> 1662.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:212263:3"/>
+            <pb facs="tcp:212263:3"/>
+            <head>To the Right Reverend Father in GOD, JOHN, Lord Bishop of <hi>Exeter.</hi>
+            </head>
+            <opener>
+               <salute>My LORD,</salute>
+            </opener>
+            <p>I Have observed in a crowd, a little bit of a man (following his Honourable Master) to shift better then many robust and bustling per<g ref="char:EOLhyphen"/>sons. Excuse me, my Lord, if (out of an innocent sel<g ref="char:EOLhyphen"/>fishness) upon a like con<g ref="char:EOLhyphen"/>sideration, I make bold with your Lordships Name (placing it before) that this little Dwarf that fol<g ref="char:EOLhyphen"/>lows
+<pb facs="tcp:212263:4"/>after, might not alto<g ref="char:EOLhyphen"/>gether be rendred useless. <hi>Talk much, and erre much,</hi> saith the <hi>Spaniard.</hi> That being too often found a Truth, by patronizing this small Essay your Lordship will not have much to an<g ref="char:EOLhyphen"/>swer for; nor I my self, if your Lordship will be pleased to pardon the pre<g ref="char:EOLhyphen"/>sumption of,</p>
+            <closer>
+               <salute>My Lord, </salute>
+               <signed>Your Lordships most humble Servant, JOHN MORTON.</signed>
+               <dateline>
+                  <date>
+                     <hi>Jan.</hi> 31. 166<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:212263:4"/>
+            <head>The Preface to the Reader.</head>
+            <opener>
+               <salute>Reader,</salute>
+            </opener>
+            <p>I Have sometimes met with an old <hi>A<g ref="char:EOLhyphen"/>dage,</hi>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>: <hi>A great Book, a great Evil.</hi> In whatever sense that might be spoken, I will not make use of it, (by way of Ostentation) to insinu<g ref="char:EOLhyphen"/>ate the goodness of what I present you. But this I may say, That if <hi>Censure</hi> will be find<g ref="char:EOLhyphen"/>ing <hi>faults,</hi> I have taken a course (if the <hi>Bulk</hi> be considered) that it shall not finde <hi>many.</hi> I think never was Age wherein were so many Discontents. <hi>I</hi> am one of those that wish that all men may live well, and to the highest of just and sober satisfactions: which can never be, if they lay not the foun<g ref="char:EOLhyphen"/>dations of their <hi>Quiet</hi> in <hi>Piety</hi> and <hi>Pru<g ref="char:EOLhyphen"/>dence.</hi> In such a Nation as ours, where both <hi>Religion</hi> and <hi>Civility</hi> is professed, 'tis possible every party or person may say, they know as much (as to this) as <hi>I</hi> can tell them. I'll take it for granted: but this too must be reasonably granted, <hi>That all men pra<g ref="char:EOLhyphen"/>ctise less then they do know; and if eve<g ref="char:EOLhyphen"/>ry one, at every Stage of Life or Action, had a Monitor to put him in mind of what
+<pb facs="tcp:212263:5"/>he knows, and should do, he would the seldomer do amiss.</hi> Let this little <hi>Pocket-Book</hi> serve as such an <hi>Officer.</hi> A <hi>little Price</hi> at first, and an <hi>half hour</hi> at a time af<g ref="char:EOLhyphen"/>ter, is all the expence (if you retain him) you will be put to. This service possibly he may do you: Have you a minde to <hi>feast</hi> it con<g ref="char:EOLhyphen"/>stantly? hee'll teach you how to keep a <hi>good conscience,</hi> which is a <hi>continual feast.</hi> Are you a <hi>Slave</hi> to <hi>Vice?</hi> this little Servant will teach you how to be <hi>Master</hi> of your <hi>self.</hi> If you are involved in <hi>business,</hi> hee'l prove a <hi>Sollicitor.</hi> Follow his directions, it is an hard case if you be not <hi>rich,</hi> or as <hi>rich</hi> as you need be. He hath something too of the <hi>Physitian.</hi> And doubt not that he will discredit you, if be puts you in a way how to be <hi>beloved.</hi> Are you <hi>sad?</hi> hee'll cheerfully cry <hi>Allegrement.</hi> If <hi>fears</hi> surprise you, he hath so much metal as to bid you be of a <hi>Bon courage.</hi> Have you a message to send, even to <hi>heaven?</hi> that im<g ref="char:EOLhyphen"/>ployment is one of his chiefest businesses. So that in stead of the Title that is given, if you please, you may call this little <hi>Manual, The good Servant.</hi> The latter part lies open to the greatest exceptions. They that either through <hi>worldliness</hi> or <hi>wickedness</hi> pray not at all, may <hi>laugh</hi> at it: they that in <hi>Prayer</hi> are neither for <hi>method, form</hi> or <hi>sense,</hi> may despise it: those that are for <hi>forms,</hi> may
+<pb facs="tcp:212263:5"/>use one or other which they are accustomed to, and may like better. And those that have a just love and liking to the <hi>Liturgie</hi> of the <hi>Church,</hi> may censure it as superfluous.</p>
+            <p>The Exceptions of the two first <hi>I</hi> value not. The third sort displease me not if they take their liberty. The latter <hi>I</hi> suppose are not hard to satisfie; When they shall consi<g ref="char:EOLhyphen"/>der, that many Reverend <hi>Bishops</hi> and <hi>Pa<g ref="char:EOLhyphen"/>stors</hi> of the <hi>Church</hi> have published their <hi>Manuals:</hi> and too, that our <hi>Church-Litur<g ref="char:EOLhyphen"/>gie</hi> in its designation is rather for the <hi>Com<g ref="char:EOLhyphen"/>munity,</hi> then for a private person or fami<g ref="char:EOLhyphen"/>ly. But yet <hi>I</hi> condemn not (but highly ap<g ref="char:EOLhyphen"/>prove) the use of it in such families where they are so good Ritualists as to know well how to do it. All that <hi>I</hi> desire, is, That rather then use <hi>none,</hi> they to whose hands this may come, may use <hi>this,</hi> or <hi>any</hi> other <hi>form.</hi> I primarily intended it for some of mine own charge, who desired me to do such a thing for them. And that they or you may know how to make a good use of it, you may do well to observe, That the <hi>variation</hi> for <hi>Morn</hi> or <hi>Evening</hi> is onely in the <hi>Prefaces</hi> and <hi>Conclusions,</hi> which are printed in the <hi>greatest Character,</hi> and may be used alone if you are streightned in time. If you have a <hi>midling sort</hi> of <hi>Leisure,</hi> (as in ordinary) you may use the <hi>greatest Character</hi> with
+<pb facs="tcp:212263:6"/>the <hi>midling Letter.</hi> And if <hi>Leisure</hi> will serve (as sometimes it may so happen) you may use <hi>all,</hi> being more particular, in Pe<g ref="char:EOLhyphen"/>tition and Thanksgiving. But in <hi>ordinary</hi> it seems too <hi>long;</hi> therefore <hi>I</hi> have caused what upon streightning occasions may be di<g ref="char:EOLhyphen"/>spensed with, to be printed in a smaller <hi>Ro<g ref="char:EOLhyphen"/>man Letter</hi> then the rest, which upon occa<g ref="char:EOLhyphen"/>sion you may pass over. And further let me add, though it be intituled a <hi>Prayer</hi> for a <hi>Family,</hi> yet it may be used (by those that want helps in this kinde) in <hi>private</hi> by any particular person. Neither may he scru<g ref="char:EOLhyphen"/>ple its being in the <hi>plural number,</hi> (or if he do, it may easily in reading be amended by himself) when the we may and ought in private use the <hi>Lords Prayer,</hi> notwithstan<g ref="char:EOLhyphen"/>ding the words <hi>Our</hi> and <hi>Us.</hi> And it is to be supposed, that whenever we <hi>pray,</hi> some or other are at the same time praying <hi>with us,</hi> and <hi>for us.</hi> But whatever you may be doing at this present, to <hi>pray</hi> for your <hi>tem<g ref="char:EOLhyphen"/>poral, spiritual</hi> and <hi>eternal welfare</hi> and <hi>happiness,</hi> is the <hi>Imployment</hi> of</p>
+            <closer>
+               <signed>Your Servant, <hi>J. M.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="treatise">
+            <pb facs="tcp:212263:6"/>
+            <head>A brief RULE OF LIFE.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">N</seg>O man but desires to live happily. HAPPINESS is a Complication of Goods relating to the Soul and Body. In a competent measure to attain unto which, a man must live by a Rule. And most men would live hap<g ref="char:EOLhyphen"/>pier then they do, if they had always at hand a faithful Monitor and Director. Rules are infinite and voluminous. Therefore a short</hi> Memento, <hi>to which a frequent recurrence may be made, is not
+<pb facs="tcp:212263:7"/>of the least use. Reader, Therefore candidly take this as such, briefly directing as to the main things requisite to the attainment of what will make a man live to his content.</hi>
+            </p>
+            <div n="1" type="rule">
+               <head>I. <hi>Truths a man should often think of.</hi>
+               </head>
+               <p>THat there is a <hi>GOD</hi> that sees all things, and will reward accord<g ref="char:EOLhyphen"/>ing to mens actions. That I may die to day; and <hi>Heaven</hi> or <hi>Hell</hi> follows. That the greatest <hi>content,</hi> cheerfulness, satisfaction, and serenity of minde, is in keeping a <hi>good Conscience,</hi> which is a continual Feast. That a good Con<g ref="char:EOLhyphen"/>science is kept by desires, resolutions, endeavours of living righteously, just<g ref="char:EOLhyphen"/>ly, temperately; and, if there be de<g ref="char:EOLhyphen"/>fects through surprize, by begging par<g ref="char:EOLhyphen"/>don, and relying on Gods mercy in <hi>CHRIST.</hi> That <hi>sin</hi> is the fountain of all <hi>misery.</hi> And to seek for Reme<g ref="char:EOLhyphen"/>dies of miseries in Voluptuousness, is but like drinking to satisfie the thirst of a Dropfie. That real goodness and vertue, cannot but finde veneration even from those that practise contra<g ref="char:EOLhyphen"/>ry. And even evil men do rejoyce, when they see evil men punished. That of all sins, they are the most sor<g ref="char:EOLhyphen"/>did
+<pb facs="tcp:212263:7"/>and vile, that bring neither credit, nor profit, nor pleasure: As Swearing and Blaspheming, Ribaldry, Romantick lying, <hi>&amp;c.</hi> That fair opportunities for the compassing honest ends, or pre<g ref="char:EOLhyphen"/>vention of future evils, are not only to be valued, but to be imbraced, and improved, with a mans whole parts and spirit. And that it is a ve<g ref="char:EOLhyphen"/>ry rare thing to finde a true friend.</p>
+            </div>
+            <div n="2" type="rule">
+               <head>II. <hi>Rules for the practice of RE<g ref="char:EOLhyphen"/>LIGION and Piety.</hi>
+               </head>
+               <p>
+                  <hi>REligion</hi> is the life and soul of all commendable endeavour: to la<g ref="char:EOLhyphen"/>bour after other perfections and ac<g ref="char:EOLhyphen"/>complishments without an eye to it, is but to build a fair house without a foundation. Therefore neglect no seasonable opportunities for the exer<g ref="char:EOLhyphen"/>cise of it, in its several acts, of Pray<g ref="char:EOLhyphen"/>er, Reading, Hearing, participating of the Sacrament, and Conference. <hi>Pray<g ref="char:EOLhyphen"/>er</hi> neglect not, morn nor evening at the least, and occasional ejaculations; in which confess sin, thank God for mercies, intercede for others, and all in the mediation of Christ: perform<g ref="char:EOLhyphen"/>ing this duty with a freedom from
+<pb facs="tcp:212263:8"/>passion, intentness void of wandrings, and confidence of being heard. <hi>Hear</hi> and <hi>Read</hi> with a most fixed attention; not only with a desire of informing the judgement, but with a full resolution to bring convictions into practice. In the <hi>Sacrament,</hi> neglect not sober pre<g ref="char:EOLhyphen"/>parations; and in participation, sum<g ref="char:EOLhyphen"/>mon up all the powers of thy Soul to exercise the highest acts of devotion. In <hi>Conference,</hi> be rather sincere, then ambitious of victory by dispute. But the highest acts of devotion in the Worship of God, is but an empty thing without <hi>piety</hi> towards men. Therefore, honour the <hi>KING,</hi> and according to proportion observe the same towards all Superiors, whether natural, civil, or spiritual. And as to all other men, at the least be precisely just, observing the Golden Rule of <hi>doing as you would be done unto;</hi> being ready to perform all offices of humanity, and charity, to those that want your assistance.</p>
+            </div>
+            <div n="3" type="rule">
+               <head>III. <hi>To overcome any HABIT of VICE.</hi>
+               </head>
+               <p>ALl men miscarry, and most men have one disorder they are more addict<g ref="char:EOLhyphen"/>ed
+<pb facs="tcp:212263:8"/>to then another: and there is no man, however bewitched or enslaved to any ill habit, but hath oft cause to bewail the mischiefs it betrays him un<g ref="char:EOLhyphen"/>to. He is not the least happy that can free his neck from the yoke of such a Tyrant. The Considerations of the first Paragraph, will help as to this. Farther consider, That a wounded Conscience makes a man unfit for any thing, making all that we do enjoy to have no rellish with it. Scarce a <hi>sinful habit</hi> but is injurious to an Estate; but certainly layes a blot upon the reputation, which should be of value to a wise man. And if a man hath a fa<g ref="char:EOLhyphen"/>mily, his exemplariness makes such disorders there, that his House which should be his <hi>Grotto</hi> or <hi>Castle,</hi> to retire unto for quiet and safety, from the noise and hazards of a tumultuous world abroad, proves as unpleasant as a Jayl. Lastly, Consider, that a mans self is the chiefest, if not the only thing, over which he hath a rightful power; and stands in a capacity as to himself (though a Peasant) to act the parts of a Monarch. But while he continues un<g ref="char:EOLhyphen"/>der the predominancie of any vice, he makes himself a slave, abject, base, and
+<pb facs="tcp:212263:9"/>dishonorable; yet, though he be a King, he is tributary to, and dependant on, the King of kings. Therefore let him pray, and obey, and put in practice those acts which he is free to, as con<g ref="char:EOLhyphen"/>fideration, resolution, watchful en<g ref="char:EOLhyphen"/>deavour, directly set against that vice which is his greatest Enemy; not neg<g ref="char:EOLhyphen"/>lecting real industry in business, (of which every man, if he will be true to his own interest, hath his hands full) and so he will not be at leisure to be wicked.</p>
+            </div>
+            <div n="4" type="rule">
+               <head>IV. <hi>How to do BUSINESS well and effectually</hi>
+               </head>
+               <p>IN the morn, consider what is to be done; at night, examine and re<g ref="char:EOLhyphen"/>view what hath been done. Whate<g ref="char:EOLhyphen"/>ver thou settest thine hand to do, do it with all thy might, to purpose, not negligently and slightly; and with all convenient expedition, not putting it off unto another time. A man of mean capacity, if he doth all that he can do, with vigour, alacrity, nimble<g ref="char:EOLhyphen"/>ness and considerateness, may do won<g ref="char:EOLhyphen"/>ders before he dies. A Book of <hi>Me<g ref="char:EOLhyphen"/>morandums,</hi> and frequent recurrence
+<pb facs="tcp:212263:9"/>to it, is necessary for every man of business. In all affairs, as near as you can, deal with honest fair-conditioned men, of credit, and not with any that are reputed subtle, debauched, or dis<g ref="char:EOLhyphen"/>sembling. In business of concern, no one that hath any thing of Religion, but knows that Gods blessing in the first place desired, makes him proceed more vigorously, and in all probability the most successful; therefore let nor that he wanting.</p>
+            </div>
+            <div n="5" type="rule">
+               <head>V. <hi>How a man may thrive as to his ESTATE.</hi>
+               </head>
+               <p>BE diligent and industrious in your Calling, and imploy, whatever it is; and labour after perfection, and exactness in it. Beware of frequent small expences, for they'll waste a great Estate; of Building, Suretiship, dealing in things you have no skill in, all suits and controversies in Law; of gaming, of a luxurious and delicious palate, frequent entertainments, tra<g ref="char:EOLhyphen"/>vails and excursions, extravagant clothing beyond call or ability; of many, idle, and unfaithful servants; of running in debt, especially if you ne<g ref="char:EOLhyphen"/>glect
+<pb facs="tcp:212263:10"/>the due paying of the interest. Keep accounts exactly of all that comes in, or goes out. Be careful in all things that by decay will require expence, to be quick in repair upon the least breach or need. Buy when things are cheap, and store; but ma<g ref="char:EOLhyphen"/>nage that store as if you were to buy by the penny. Be careful to keep a purse aforehand, for that may at a dead lift prove a true friend though it says nothing. Make no vain-glorious shews, neither boast of any thing you have; for that tempts the thief, or beg<g ref="char:EOLhyphen"/>ger, or borrower, and at best doth but attract envy: struggle amain to be freed from debts, and pinch rather than run into them; for <hi>he that is out of debt begins to be rich.</hi> But above all, be charitable to the Poor. <hi>For there is that scattereth, and yet increa<g ref="char:EOLhyphen"/>seth; and there is that withholdeth more than is meet, and it tendeth to poverty.</hi>
+               </p>
+            </div>
+            <div n="6" type="rule">
+               <head>VI. <hi>How a man may preserve his HEALTH.</hi>
+               </head>
+               <p>OBserve Temperance, Cheerfulness, and Business, (provided you be not too much intangled) and moderate Ex<g ref="char:EOLhyphen"/>ercise,
+<pb facs="tcp:212263:10"/>and Recreation, avoiding exor<g ref="char:EOLhyphen"/>bitant passions of Love, Grief, or An<g ref="char:EOLhyphen"/>ger: Keep your head warm in the night, and your feet dry in the day. Rise and lye down early: at meat be merry; forgetting all trouble, and laying aside all business. Listen to Na<g ref="char:EOLhyphen"/>tures call, for evacuation of Excre<g ref="char:EOLhyphen"/>ments; but especially in the morning, which by use will become natural: and be in every thing cleanly; and in an ordinary course you cannot be other than healthy.</p>
+            </div>
+            <div n="7" type="rule">
+               <head>VII. <hi>How a man shall live so as to be beloved.</hi>
+               </head>
+               <p>IF thou wilt be beloved, <hi>LOVE</hi> is <hi>Seneca's</hi> great <hi>Philter.</hi> But it is an hard thing to love men, there being so many deformities in mens natures, conditions and practices; therefore labour to love what is lovely, as they are Men, as Countrymen, as Neigh<g ref="char:EOLhyphen"/>bors, as the same temper, humour, imployment, as having any thing com<g ref="char:EOLhyphen"/>mendable (for the worst men cannot be in all things bad) but above all, as Christians. And so loving others, bring your self to express it, even to those
+<pb facs="tcp:212263:11"/>that deserve least, in all things possible: As with a clear, cheerful, affable, o<g ref="char:EOLhyphen"/>bliging carriage; giving good words to all, speaking well of all; doing small offices of humanity and urbanity, if you cannot do greater; condemning &amp; cen<g ref="char:EOLhyphen"/>suring none, unless Honour or Christi<g ref="char:EOLhyphen"/>anity oblige. Watching all opportu<g ref="char:EOLhyphen"/>nities to shew your self a sympathizer with others sorrows and necessities; e<g ref="char:EOLhyphen"/>specially in visiting when sick, in Prison, disconsolate, or any other obscurity; speaking good words to them, and for them. Congratulate with cheerfulness the good, and condole with an evident resentment the bad fortunes of your Friends and Acquaintance. Labour to acquire a stock of such things which make a man acceptable society; which may be by taking leasure times to read History, by furnishing your self with facete and pleasant relations; by obser<g ref="char:EOLhyphen"/>vation of the carriages of men using to give apposite, fit, and well-worded characters and representations there<g ref="char:EOLhyphen"/>of: by taking notice of remedies for Diseases, and communicating them, or any thing that may be for the profit, or honest pleasure of mankind. In a word, in all converses with men, to use
+<pb facs="tcp:212263:11"/>an honest, plain, hearty, chearful sim<g ref="char:EOLhyphen"/>plicity; yet with civility, due respect, and good manners; concerning which there may be many Rules, but these following the chiefest.</p>
+            </div>
+            <div n="8" type="rule">
+               <head>VIII. <hi>Concerning GOOD MAN<g ref="char:EOLhyphen"/>NERS.</hi>
+               </head>
+               <p>LEt the carriage of the body be decent, and not affected. In all addresses or partings, answer others ci<g ref="char:EOLhyphen"/>vilities with equal returns; and if possi<g ref="char:EOLhyphen"/>ble, go beyond them. Stand bare be<g ref="char:EOLhyphen"/>fore all persons of Quality, and to all, while they speak to you, or you to them: Give to every one as pleasing looks as possible; which cannot well be without discernable evidences of coun<g ref="char:EOLhyphen"/>terfeiting, unless you put on a sweet and courteous frame of spirit; moti<g ref="char:EOLhyphen"/>ons of the body, and looks of the coun<g ref="char:EOLhyphen"/>tenance, following the minde. In all society therefore, put off all prejudices or jealousies, and all solicitous thoughts of business, or melancholy and per<g ref="char:EOLhyphen"/>plexed reflections on cross emergen<g ref="char:EOLhyphen"/>cies. If it be possible, let there not be the least appearance of weariness, but with a cheerful, yet respectful com<g ref="char:EOLhyphen"/>plaisance,
+<pb facs="tcp:212263:12"/>be wholly theirs in whose company you are. Watch and take e<g ref="char:EOLhyphen"/>very opportunity to be facete, without sarcasm, ribaldry or profuse laughter. In discourse, minde exactly what o<g ref="char:EOLhyphen"/>thers say; and by the eye, and an open frank countenance, make it manifest that you do minde. Approve of what is well spoken by another, and put the best gloss and fairest interpretation on what may not be so well. Gibe not at, neither deride, the meanest, or most (if not insufferable) impertinent. In all discourse (where matter of dispute is) labour not to be thought victorious; and though you may have spoken bet<g ref="char:EOLhyphen"/>ter reason or sence, yet commend (if without injury to truth or vertue it will bear it) what hath been spoken by your opponent, and let that conclude your discourse. But, to conclude mine, let me minde you, that it is most ine<g ref="char:EOLhyphen"/>vitably certain, that there is no man in this world, (however he may appear to you before you know him through<g ref="char:EOLhyphen"/>ly) but hath his troubles and bur<g ref="char:EOLhyphen"/>thens, which are heavier or lighter ac<g ref="char:EOLhyphen"/>cording to the frame and temper of a mans own spirit, over which (if over any thing) a man hath the greatest right
+<pb n="13" facs="tcp:212263:12"/>of mastery and dominion. There are in the minde two great evils, <hi>(viz. SO<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>ROW and FEAR)</hi> which if he can out overcome, I know not why he should not be happy in the midst of what the world calls unhappiness. The reme<g ref="char:EOLhyphen"/>dies for both must principally be found in the minde, fortifying it self by considerations. A few of which, let me give you in these two last Paragraphs.</p>
+            </div>
+            <div n="9" type="rule">
+               <head>IX. <hi>Remedies against SORROW.</hi>
+               </head>
+               <p>COnsider the injury it does to the whole man; impairing bodily health, disquieting the soul, and dis<g ref="char:EOLhyphen"/>composing all; so as that it proves in<g ref="char:EOLhyphen"/>jurious to the whole capacity of a man. It hightens those evils which come from without; and certain it is, that by sorrow and trouble of spirit I can<g ref="char:EOLhyphen"/>not remove them, or lessen them; but rather weaken my self for resistance: and then suppose I have losses, crosses, enemies, reproach, prisons, or what else; others better then I have had them, they are things common to men, yea upon the score of necessity: but it is not necessary that a man should a<g ref="char:EOLhyphen"/>buse himself because he is abused.
+<pb n="14" facs="tcp:212263:13"/>Consider too, that there is scarce an it convenience but it hath its commo<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#murp" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>y or advantage, that shall counter<g ref="char:EOLhyphen"/>vail it: there is no honest or conside<g ref="char:EOLhyphen"/>ra<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e man, but in his life-time hath a<g ref="char:EOLhyphen"/>bundance of experience to confirm this truth. The worst of miseries is Poverty, because a complicated Evil: yet that not intolerable to be born by him that considers with how little Na<g ref="char:EOLhyphen"/>ture may be supported, and that it is not very difficult, (if a man will keep up his spirits in vigour and cheerful<g ref="char:EOLhyphen"/>ness, and not put too great an estimate on the opinion of others concerning himself) to get that little honestly. Nay, possibly, if the person hath real worth, he need not seek, but that sufficiencie for sustentation may be sent. Nay, without Romance, there is a real plea<g ref="char:EOLhyphen"/>sure in the mean fare of quiet and un<g ref="char:EOLhyphen"/>envyed Indigencie; and Bread may be as sweet and delicious, as the vari<g ref="char:EOLhyphen"/>eties of a loaded Table. But then as to real cheerfulness, if the other Rules be followed, so that a man keeps a good Conscience, is in health, does his busi<g ref="char:EOLhyphen"/>ness successfully, thrives in his Estate, and gets the love of those he converses with, he cannot want it; but especially
+<pb facs="tcp:212263:13"/>if he keeps a good Conscience: and as to the other, though sick, poor, unsuc<g ref="char:EOLhyphen"/>cessful, and hath Enemies; yet having done his endeavour in an ordinary and fair way, he shall not want content.</p>
+            </div>
+            <div n="10" type="rule">
+               <head>X. <hi>Remedies against FEAR, and means for the support of Courage.</hi>
+               </head>
+               <p>WIthout courage there can be no<g ref="char:EOLhyphen"/>thing done nobly, throughly, and handsomly: and Fear is a base, fordid, weakning thing. And what is <hi>FEAR,</hi> but a trouble of Spirit pro<g ref="char:EOLhyphen"/>ceeding from a conjecture of some<g ref="char:EOLhyphen"/>thing future which may happen? Con<g ref="char:EOLhyphen"/>sider in general, that all the fear in the world cannot prevent, what will come; nay, in many cases it comes with a fear. Perchance it may not come; and then, what a Fool was I to fear? But if it do come, Why should I torture my self before the time? The greatest evil that can come, is but <hi>Death.</hi> And that will be certain, and all the fears in the world cannot prevent it. Labour there<g ref="char:EOLhyphen"/>fore to get your Spirit above the fear of Death, and all other fears will va<g ref="char:EOLhyphen"/>nish. Now the way not to fear to dye, is so to carry a mans self, as not to be a<g ref="char:EOLhyphen"/>shamed
+<pb facs="tcp:212263:14"/>to live. And if at all you fear to dye, be afraid to dye basely, as im<g ref="char:EOLhyphen"/>penitent, in debt, or cowardly; and so fear shall be a cure of fear: therefore while you live, keep a good Con<g ref="char:EOLhyphen"/>science void of offence to God and man, and you need neither to be a<g ref="char:EOLhyphen"/>fraid or asham'd. And doing so, know, 'tis a sin not to be confident, open, bold, frank; and if not a sin, yet a ve<g ref="char:EOLhyphen"/>ry great imperfection or defect; and he that is timorous or unnecessarily bash<g ref="char:EOLhyphen"/>ful, is either guilty of evil, or would make the world believe he is. In a word, the practice of the other directi<g ref="char:EOLhyphen"/>ons will cure a mans Spirit of the dis<g ref="char:EOLhyphen"/>ease of fear or shame. And every Di<g ref="char:EOLhyphen"/>rection followed, will help ont he o<g ref="char:EOLhyphen"/>ther. If these brief Rules be put into practice, (and the way to practise them, is frequently to recur to them) a man may become, a Religious, Ho<g ref="char:EOLhyphen"/>nest, Vertuous, Thriving, Healthy, Beloved, Orderly, Contented and Couragious person; and one that will do his business well in this world, and make sure of the next.</p>
+            </div>
+         </div>
+         <div type="prayers">
+            <pb facs="tcp:212263:14"/>
+            <head>A PRAYER For a FAMILY, Either for <hi>Morning</hi> or <hi>Evening.</hi>
+            </head>
+            <div type="prayer">
+               <p>
+                  <hi>If in the Morning, use this Preface.</hi>
+               </p>
+               <p>CAuse Thy Face to shine upon us,
+<note place="margin">Preface for the morning.</note> and lift up the Light of Thy Countenance; and let
+<pb facs="tcp:212263:15"/>the words of our mouth, and the meditation of our hearts, be now and always acceptable in Thy sight.</p>
+               <p>
+                  <hi>If in the Evening, use this Preface.</hi>
+               </p>
+               <p>LEt our Prayer be set before Thee as In<g ref="char:EOLhyphen"/>cense,
+<note place="margin">Preface for the Evening.</note> and the lifting up of our hands as the Even<g ref="char:EOLhyphen"/>ing Sacrifice.</p>
+               <p>
+                  <hi>The Prayer followeth.</hi>
+               </p>
+               <p>OH Almighty God,
+<note place="margin">Compellation</note> the King of kings, and Lord of lords, glorious in holiness, fear<g ref="char:EOLhyphen"/>ful in praises, doing wonders. Thy Name is excellent in all the
+<pb n="19" facs="tcp:212263:15"/>earth, and Thou hast set Thy glory above the heavens. Thou art a great God, and a great King above all gods: before Thee are honour and majesty, and in Thy Sanctuary are strength and beauty. Thou lookest down from heaven, and beholdest all the sons of men: Thou knowest our down-sitting and our up-rising, and understandest our thoughts afar off. Thou art of purer eyes then to behold evil, and canst not look on iniquity with ap<g ref="char:EOLhyphen"/>probation.</p>
+               <p>With what confidence then can we, poor sinful Creatures, come into Thy presence? 'Tis Thy mercy, O Lord, that incou<g ref="char:EOLhyphen"/>rageth us: for who is a God like unto Thee, that pardoneth ini<g ref="char:EOLhyphen"/>quity, and passeth by the trans<g ref="char:EOLhyphen"/>gression of the remnant of his heritage? Thou retainest not Thine anger for ever, because Thy delight is in mercy; even
+<pb n="20" facs="tcp:212263:16"/>towards those that are less then the least of all Thy mercies.</p>
+               <p>And such we must acknow<g ref="char:EOLhyphen"/>ledge our selves to be, <note place="margin">Confession.</note> by reason of our sins, both original and actual. Thou didst plant our Parents a noble Vine, a right Seed; but they quickly degene<g ref="char:EOLhyphen"/>rated; so that we are transgres<g ref="char:EOLhyphen"/>sors from the Womb; and we are not able of our selves to think any thing that is good. Our hearts are deceitful above all things: our wills make us ser<g ref="char:EOLhyphen"/>vants unto sin, and our bodily members are instruments of un<g ref="char:EOLhyphen"/>righteousness. We do not (as we ought) regard the works of the Lord, nor consider the ope<g ref="char:EOLhyphen"/>ration of Thy hands. We too often draw nigh unto Thee with our mouths, when our hearts are far from thee. We have not feared as we ought the threats of Thy Law, nor valued as we ought the sweet tenders of Grace in
+<pb facs="tcp:212263:16"/>Thy Gospel, esteeming Thy pre<g ref="char:EOLhyphen"/>cious Promises as the Joy of our hearts. Our sins we have not been sufficiently humbled for: our repentance seldome or never hath born proportion to the multitude or greatness of our miscarriages; but we have too too often tempted, grieved, quen<g ref="char:EOLhyphen"/>ched the holy Spirit of God, whereby we should be sealed unto the day of Redemption. Who can tell how oft he offen<g ref="char:EOLhyphen"/>deth? Our iniquities are in<g ref="char:EOLhyphen"/>creased over us, they are more then the hairs of our head. If one sin in <hi>Adam</hi> were enough to condemn the whole world, what then may a world of sins do in every one of us? If one man sin against another, the Judge shall judge him; but if a man sin a<g ref="char:EOLhyphen"/>gainst God, who shall intreat for him? If thou shouldst be ex<g ref="char:EOLhyphen"/>tream to mark what is done a<g ref="char:EOLhyphen"/>miss, Oh Lord, who may abide
+<pb facs="tcp:212263:17"/>it? But there is mercy and for<g ref="char:EOLhyphen"/>giveness with Thee, that Thou mayst be feared. Thou know<g ref="char:EOLhyphen"/>est our frame, and considerest that we are but dust.</p>
+               <p>Oh think upon Thy servants as concerning Thy Word,
+<note place="margin">Petition for Pardon.</note> where<g ref="char:EOLhyphen"/>in Thou hast caused us to trust: heal our backslidings, and love us freely. Though the Wages of sin is death, yet this is our comfort, that the Gift of God is eternal Life through Jesus Christ our Lord. Grant therefore, Oh Lord, that we may be justified freely by Thy Grace, through the redemption that is by Jesus Christ. According to the mul<g ref="char:EOLhyphen"/>titude of Thy tender mercies, blot out our transgressions: wash us throughly from our iniquities, and cleanse us from our sins.</p>
+               <p>So sanctifying us,
+<note place="margin">Petition for Sanctificati<g ref="char:EOLhyphen"/>on in general</note> that sin may not reign in our mortal bodies, that we may not walk according to the course of the world, fulfil<g ref="char:EOLhyphen"/>ling
+<pb facs="tcp:212263:17"/>the desires of the flesh. Give unto us a new heart, and put a new spirit into us. Grant us, according to the riches of Thy glory, that we may be strength<g ref="char:EOLhyphen"/>ned with might by Thy Spirit in the inward man. Lead us into the paths of righteousness, that in simplicity and godly sincerity we may have our Conversations in this world; that denying all ungodliness and worldly lusts, we may live soberly, righteously and godly in this present life; holding faith and a good consci<g ref="char:EOLhyphen"/>ence, patiently continuing in well-doing, without weariness, knowing that in due time we shall reap, if we faint not.</p>
+               <p>Fill us with knowledge of Thy VVill,
+<note place="margin">Petition for par<g ref="char:EOLhyphen"/>ticular Graces. Knowledge. Faith.</note> in all wisdom and spiritual un<g ref="char:EOLhyphen"/>derstanding. Open our hearts to be<g ref="char:EOLhyphen"/>lieve all the truths of Thy holy Word. Make us to trust in the Name of the Lord,
+<note place="margin">Trust in God.</note> and to relie on Thee in all our
+<pb facs="tcp:212263:18"/>troubles.
+<note place="margin">Love.</note> Make us to love Thee with all our hearts, souls and mindes. So frame our spirits,
+<note place="margin">Zeal.</note> that we may be zea<g ref="char:EOLhyphen"/>lously affected in every good thing, and not be ashamed of the Gospel of Christ, which is the power of God un<g ref="char:EOLhyphen"/>to salvation. That we may serve Thee with joy and gladness of heart,
+<note place="margin">Joy spiritual.</note> delighting greatly in thy Command<g ref="char:EOLhyphen"/>ments.
+<note place="margin">Patience.</note> Give us patience under all the evils we suffer,
+<note place="margin">Submission to God.</note> and a submissive heart to accept of the punishments of our iniquities, waiting on God in the way of his Judgements. Work in us such a sanctified fear,
+<note place="margin">Fear of God.</note> that we may not be afraid of men that shall die, and the sons of men that shall be made as grass; but that we may fear him who is able to destroy both body and soul in hell. Cloath us, Oh Lord, with the great ornament of meekness and hu<g ref="char:EOLhyphen"/>mility,
+<note place="margin">Meekness and Humility.</note> that we may not minde high things, nor be wise in our own con<g ref="char:EOLhyphen"/>ceit. Make us to walk as becomes holiness towards all men, being kindly affectioned one to another,
+<note place="margin">Brotherly Love.</note> with bro<g ref="char:EOLhyphen"/>therly love, without dissimulation; not in word onely and tongue, but in deed and in truth, loving each other with a pure heart fervently. Direct
+<pb facs="tcp:212263:18"/>us to behave our selves aright towards all Relations, gravely and modestly towards our Inferiours, teverently and dutifully towards our Superiours, thankfully to our Benefactors, friendly to our Equals, in honour preferring one another.
+<note place="margin">Mildness and peaceableness.</note> Give us mild and peace<g ref="char:EOLhyphen"/>able spirits, that we may be slow to anger, putting on bowels of mercy and kindness, and humbleness of mind, meekness, long-suffering, forbearing one another, forgiving one another; even as God for Christs sake forgave us.
+<note place="margin">Chastity.</note> Enable us to possess our vessels in sanctification and honour, that we may keep our bodies undefiled, as be<g ref="char:EOLhyphen"/>ing members of Christ, and temples of the holy Ghost. Thou, Oh Lord, who art the God of all Grace, who hast called us into Thine eternal Glory by Christ Jesus, make us perfect: e<g ref="char:EOLhyphen"/>stablish us, strengthen and settle us, that we may continue in the Faith,
+<note place="margin">Faith.</note> and not be moved away from the Hope of the Gospel;
+<note place="margin">Hope.</note> laying aside e<g ref="char:EOLhyphen"/>very sin that so easily doth beset us, holding fast our profession without wavering;
+<note place="margin">Perseverance.</note> that we may abide in Christ, and his words abide in us; continuing in the things which we
+<pb facs="tcp:212263:19"/>have learned, being faithful unto death, that then he may bestow upon us a Crown of Life.</p>
+               <p>As to our temporal Concern<g ref="char:EOLhyphen"/>ments,
+<note place="margin">Petition for temporal things.</note> let us not want any thing that is good, and defend and pro<g ref="char:EOLhyphen"/>tect us from all evil. Continue unto us the use of our Wits and Memories. Fill us with gladness of heart, peace and serenity of mind. Continue unto us our health and strength, repairing all decays. Preserve unto us our Reputations, restraining others from reproaching, and us from scandals and appearances of e<g ref="char:EOLhyphen"/>vils. Raise up unto us such that may be kind unto us, and give us comfort in all our Relations. And, Oh Lord, supply us with food and raiment convenient for us, keeping our hearts from be<g ref="char:EOLhyphen"/>ing troubled with carking Cares, teaching us how to abound, and how to want, and in all estates to be content.</p>
+               <pb facs="tcp:212263:19"/>
+               <p>Defend and protect us from all evil; from sicknesses,
+<note place="margin">Deprecation of evils.</note> ene<g ref="char:EOLhyphen"/>mies, and reproaches; from want, confusion and trouble. Keep us from brutishness and stupidity, from trembling of heart, and sorrow of mind. Give us not over to vile affections, a seared Conscience, or a repro<g ref="char:EOLhyphen"/>bate sense. Deliver us, Oh Lord, from the deceits of our corrupted Natures, the malice and subtilty of Satan, the allurements or ter<g ref="char:EOLhyphen"/>rours of the world. Finally, Oh Lord, cut us not off with swift destruction; snatch us not out of the Land of the Living with out sins and our fears upon us; and cast us not into those Regions of darkness, where there is nothing but weeping and gnashing of teeth.</p>
+               <p>Not onely do we pray for our selves,
+<note place="margin">Intercession for others.</note> but we make bold to bring our Intercessions for others into Thy presence. Be merciful un<g ref="char:EOLhyphen"/>to
+<pb facs="tcp:212263:20"/>all Thine elect people,
+<note place="margin">For the whole Church</note> and bless them, and cause Thy face to shine upon them, that Thy way may be known upon earth, and Thy saving health among all Na<g ref="char:EOLhyphen"/>tions. We pray Thee to inform the ignorant, reclaim the erroni<g ref="char:EOLhyphen"/>ous, strengthen the weak, com<g ref="char:EOLhyphen"/>sort the sorrowful, restore the sick,
+<note place="margin">For our own Nation.</note> relieve the needy. In all re<g ref="char:EOLhyphen"/>spects be good unto our own Na<g ref="char:EOLhyphen"/>tion: Pardon our sins, purge out our corruptions, heal our distem<g ref="char:EOLhyphen"/>pers, send and continue unto us a righteous peace. Abundantly bless our provision, and satisfie our poor with bread, that our Garners may be full, affording all manner of store. Deliver and preserve our Nation from dome<g ref="char:EOLhyphen"/>stick Confusions, and sorreign Invasions, and the noysome Pe<g ref="char:EOLhyphen"/>stilence, or other infectious Di<g ref="char:EOLhyphen"/>seases. Let not Death come up into our VVindows, nor enter into our Palaces, to cut off the
+<pb facs="tcp:212263:20"/>Children from without, and the Young Man from the street, We pray Thee to bless the King,
+<note place="margin">For the King</note> gi<g ref="char:EOLhyphen"/>ving him a wise and understand<g ref="char:EOLhyphen"/>ing Heart to judge the people, that he may be a terrour to evil doers, and an incouragement to them that do well: preserve and defend him from all his ene<g ref="char:EOLhyphen"/>mies.</p>
+               <p>Endow all the Nobility and Gen<g ref="char:EOLhyphen"/>try with such Vertue and spiritual Graces,
+<note place="margin">Nobility.</note> as can alone truely ennoble them, whereby they may be made the children of God, and heirs of heaven. Bless all publick Judges and Counsel<g ref="char:EOLhyphen"/>lors; make them wise and upright,
+<note place="margin">Judges and Counsellors.</note> and successful in all the difficult businesses they are called unto.</p>
+               <p>And all inferiour Magistrates;
+<note place="margin">Inferiours Me<g ref="char:EOLhyphen"/>gistrates.</note> make them men of courage, fearing God, wise and faithful in their places, ba<g ref="char:EOLhyphen"/>ters of reward, and without respect of persons.</p>
+               <p>For all that minister about ho<g ref="char:EOLhyphen"/>ly things,
+<note place="margin">Ministers.</note> however dignified or distin<g ref="char:EOLhyphen"/>guished.
+<pb facs="tcp:212263:21"/>We pray Thee that Thou wouldst give unto Thy people Pastors after Thine own heart, who may be gratious in their lives, painful and powerful, diligent, wise and faithful in the discharge of their duty.
+<note place="margin">
+                     <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> own Pa<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>rs.</note> Especi<g ref="char:EOLhyphen"/>ally for him or them who are by Thy Providence more particularly set over us, that in life they may shew them<g ref="char:EOLhyphen"/>selves paterns of good works, beha<g ref="char:EOLhyphen"/>ving themselves as stewards of the my<g ref="char:EOLhyphen"/>steries of God; &amp; as to their Doctrine, that they may study to approve them<g ref="char:EOLhyphen"/>selves unto God, workmen that need not to be ashamed, rightly dividing the Word of Truth; supporting them under all discouragements that they may meet with in the way of their holy Calling.</p>
+               <p>Make the common people humble,
+<note place="margin">
+                     <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>mmon people.</note> peaceable, charitable, not so easily carried about with every wind of Do<g ref="char:EOLhyphen"/>ctrine.</p>
+               <p>Bless all those that are our brethren according to the flesh:
+<note place="margin">
+                     <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>r friends and <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>ations.</note> those that have been instrumental for our good, either in souls, bodies or estates, remember them for good in the day of their troubles, and recompence an hundred fold for all the kindness that we have received from them.</p>
+               <pb facs="tcp:212263:21"/>
+               <p>Even we pray Thee for our Ene<g ref="char:EOLhyphen"/>mies,
+<note place="margin">Our enemies.</note> and such as hate us without a cause: let not their offence against us be laid to their charge, but con<g ref="char:EOLhyphen"/>vert their souls unto Thy self.</p>
+               <p>Bless our Neighbourhood and our Families,
+<note place="margin">Our Neighbour<g ref="char:EOLhyphen"/>hood and fami<g ref="char:EOLhyphen"/>lies.</note> that we may live at Peace and Unity amongst our selves; faith<g ref="char:EOLhyphen"/>fully discharging our several duties, a<g ref="char:EOLhyphen"/>dorning our profession, considering one another, provoking unto love and good works.</p>
+               <p>Thus, Oh Lord,
+<note place="margin">Thanksgi<g ref="char:EOLhyphen"/>ving for</note> because there is all fulness with Thee, we make our Petitions to be supplyed with mercies of all kinde; and we are incouraged by our experience of Thy readiness to supply us; for we dayly and hourly have recei<g ref="char:EOLhyphen"/>ved good things at thy hands, for which we praise and bless Thy Name.</p>
+               <p>For our beings;
+<note place="margin">Temporal Bles<g ref="char:EOLhyphen"/>sings.</note> for that in the de<g ref="char:EOLhyphen"/>grees of Creation, Thou hast made us little lower then the Angels: That we are born free, and not slaves; Chri<g ref="char:EOLhyphen"/>stians, and not Pagans and Infidels:
+<pb facs="tcp:212263:22"/>That thou hast preserved us, when in anger Thou mightest have cut us off, and cast us into Hell: That Thou continuest unto us our understandings and our healths: That Thou hast in<g ref="char:EOLhyphen"/>clined the hearts of any to shew us fa<g ref="char:EOLhyphen"/>vour: That we are not a reproach and by-word as to our reputation: That Thou hast constantly supplyed us with food and raiment: That we have not been a prey unto the sword, or given over at any time to the will of our e<g ref="char:EOLhyphen"/>nemies.</p>
+               <p>But above all,
+<note place="margin">Spiritual Bles<g ref="char:EOLhyphen"/>sings.</note> we praise Thee for spiritual blessings, and Jesus Christ the Fountain of all. For our election un<g ref="char:EOLhyphen"/>to salvation, our redemption by the blood of Thy Son; our vocation, in that Thou hast called us by Thy Go<g ref="char:EOLhyphen"/>spel to the obtaining of glory by Jesus Christ; for justification and pardon of sin by the merits of Thy Son; for any measures of sanctification.</p>
+               <p>Many,
+<note place="margin">General Thanksgi<g ref="char:EOLhyphen"/>ving.</note> Oh Lord, are the wonderful works which Thou hast done, and Thy thoughts which are to us<g ref="char:EOLhyphen"/>ward
+<pb facs="tcp:212263:22"/>cannot be reckoned up in order unto Thee. Blessed be the Lord God of Israel, who onely doth won<g ref="char:EOLhyphen"/>drous things; and blessed be his glorious Name, and let the whole earth be filled with his glory.</p>
+               <closer>Amen and Amen.</closer>
+            </div>
+            <div type="addendum">
+               <p>At Morning Prayer proceed as followeth, otherwise with what fol<g ref="char:EOLhyphen"/>lowing that is suited to every Pray<g ref="char:EOLhyphen"/>er; summarily recommending our selves and concomments in Gods hands.</p>
+               <q>
+                  <p>
+                     <label>In the Morning.</label>
+                  </p>
+                  <p>Oh Lord,
+<note place="margin">Summary Recommen<g ref="char:EOLhyphen"/>dation in Conclusion.</note> we recommend our souls and bodies, and all concernments, into Thy hands this day. Protect us, and watch over us by Thy
+<pb facs="tcp:212263:23"/>fatherly Providence. De<g ref="char:EOLhyphen"/>fend us from the sins and dangers we may be exposed unto. Give Thy Angels charge over us to keep us in all our ways. So direct and assist us, that we may glori<g ref="char:EOLhyphen"/>fie Thy Name in thought, word and deed; and make us walk circumspectly, not as fools, but as wise; con<g ref="char:EOLhyphen"/>sidering that God is about our paths, and is acquain<g ref="char:EOLhyphen"/>ted with all our ways. That we may be wise and mode<g ref="char:EOLhyphen"/>rate in our carriage, hum<g ref="char:EOLhyphen"/>ble and moderate in our passions, temperate and so<g ref="char:EOLhyphen"/>ber in our dyet, diligent and chearful in our busi<g ref="char:EOLhyphen"/>ness.
+<pb facs="tcp:212263:23"/>Give us success in all honest undertakings. Send us good speed this day, and shew Thy kindness to us. Enable us this day, and eve<g ref="char:EOLhyphen"/>ry day, to proceed forward in our spiritual growth, to get mastery over our own evil heart and affections, to renew and practise all those holy purposes and resoluti<g ref="char:EOLhyphen"/>ons which we have formerly made; that proceeding from grace to grace, we may at length come to be perfect in Christ Jesus our Lord and Saviour. In whose Name and words we call upon Thee as he himself in his most holy Gospel hath
+<pb facs="tcp:212263:24"/>taught us to pray, saying, <hi>Our Father,</hi> &amp;c.</p>
+               </q>
+            </div>
+            <div type="addendum">
+               <p>At Evening after the Thanksgiving, thus as followeth.</p>
+               <p>Because,
+<note place="margin">Summary Recommen<g ref="char:EOLhyphen"/>dation in Conclusion for the E<g ref="char:EOLhyphen"/>vening.</note> Oh Lord, Thou hast commanded Thy lo<g ref="char:EOLhyphen"/>ving kindness in the day<g ref="char:EOLhyphen"/>time, therefore at night shall our song be of Thee, and our prayer unto the God of our life. Protect us there<g ref="char:EOLhyphen"/>fore, we pray Thee, this night following. Thou who never slumberest nor sleep<g ref="char:EOLhyphen"/>est, we pray Thee wake for us, and watch, over us for good. Thou who givest Thy beloved sleep, refresh us with quiet rest, that we may hear of Thy loving
+<pb facs="tcp:212263:24"/>kindness betimes in the morning; for in Thee is our trust. Suffer us not to be scared with dreams, nor terrified with visions; but make our sleep sweet unto us, that through the refresh<g ref="char:EOLhyphen"/>ment we receive from it, we may be enabled to do Thee better service in the duties of the following day. But if Thou hast determined to take us out of this world before we have another op<g ref="char:EOLhyphen"/>portunity of approaching before Thee in this holy duty, then we pray Thee to pardon our sins, and save our souls, for the sake of him who hath purchased
+<pb facs="tcp:212263:25"/>pardon, even Jesus Christ our Righteousness: In whose blessed Name and holy words we call upon Thee as he himself hath taught us to pray,
+<note place="margin">The Lords Prayer.</note>
+                  <hi>Our Fa<g ref="char:EOLhyphen"/>ther which,</hi> &amp;c.</p>
+               <p>The peace of God which passeth all understanding,
+<note place="margin">The Benedi<g ref="char:EOLhyphen"/>ction.</note> keep our hearts and minds in the knowledge and love of God, and of his Son Jesus Christ our Lord: and the blessing of God Almighty, the Father, the Son, and the holy Ghost, be with us, and remain with us,
+<list>
+                     <item>This Morning and for ever<g ref="char:EOLhyphen"/>more.</item>
+                     <item>This Night and for ever<g ref="char:EOLhyphen"/>more. </item>
+                  </list>
+               </p>
+               <closer>Amen.</closer>
+               <pb facs="tcp:212263:25"/>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
